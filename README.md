@@ -19,6 +19,7 @@ You have to de-solder both output terminals (requires a soldering iron with some
 Then, screw the output 3D bracket in place and insert the output XT60. It should slide in with little force. If it does not, heat up the 3D printed part until it does. Then use a piece of the 2.5mm² wire to solder it to the PCB. Use a lot of solder - these wires will have to mechanically hold the XT60 in place!
 ![output, work in progress](https://raw.githubusercontent.com/ebastler/Junsi-106b-XT60-modification/master/Documentation/junsi_out_half.jpg)
 ![output, finished](https://raw.githubusercontent.com/ebastler/Junsi-106b-XT60-modification/master/Documentation/junsi_out_finished.jpg)
+
 If you managed to salvage the cap, solder it onto the two PCB terminals where you connected the XT60 or directly to the connector. Below the connector you can see my SMD cap array ;)
 
 Next, screw the input side cap in place and slide an XT60 in. Again, it should fit with little force. Then connect the negative terminal of the XT60 to the negative pad on the PCB which is located right below. Watch out not to short any of the pads nearby.
