@@ -1,5 +1,5 @@
 # Junsi-106b-XT60-modification
-This repository contains all necessary 3D models as well as a short build log explaining how to convert a Junsi iCharger 106b+ to XT60 as input and output connectors. All 3D files will shortly be available at my thingiverse account, too: https://www.thingiverse.com/thing:3005801
+This repository contains all necessary 3D models as well as a short build log explaining how to convert a Junsi iCharger 106b+ to XT60 as input and output connectors. All 3D are available at my thingiverse account, too: https://www.thingiverse.com/thing:3005801
 
 ![finished chargers](https://raw.githubusercontent.com/ebastler/Junsi-106b-XT60-modification/master/Documentation/junsi_finished.jpg)
 
@@ -32,4 +32,4 @@ Now connect the positive terminal of the XT60 to the remaining input pad (again,
 
 ![whole charger, finished](https://raw.githubusercontent.com/ebastler/Junsi-106b-XT60-modification/master/Documentation/junsi_whole_finished.jpg)
 
-All that remains now is closing the charger and enjoy the adpater-free charging!
+All that remains now is closing the charger and enjoying the adpater-free charging!
