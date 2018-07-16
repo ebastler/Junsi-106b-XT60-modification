@@ -1,11 +1,12 @@
 # Junsi-106b-XT60-modification
 This repository contains all necessary 3D models as well as a short build log explaining how to convert a Junsi iCharger 106b+ to XT60 as input and output connectors. All 3D are available at my thingiverse account, too: https://www.thingiverse.com/thing:3005801
+Please wait for revision two of the files (will come tomorrow), the current version has a minor design flaw. The hole spacing is not correct, so that the charger will not be entirely closed.
 
 ![finished chargers](https://raw.githubusercontent.com/ebastler/Junsi-106b-XT60-modification/master/Documentation/junsi_finished.jpg)
 
 ### Needed parts
 - 2 XT60 (male)
-- 20-30cm of 2.5mm² (14 AWG) wire. The more flexible, the better.
+- 20-30cm of 2.5mm² (14 AWG) wire. The more flexible, the better. You can recycle the stock input wires for this.
 - 1 0603 or similar size 100nF 25V SMD cap (not always necessary, but probably)
 - 1 non-SMD 1µF 100V ceramics cap with a pin spacing of 8-12mm (only necessary if you work sloppy like me) or 0603 100V caps that add up to 1µF (I used 10 100nF 100V)
 - The two 3D printed parts (should be temperature resistant, print in ABS, Greentec or some other filament that endures higher temperatures than PLA)
