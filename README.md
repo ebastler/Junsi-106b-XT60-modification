@@ -1,6 +1,5 @@
 # Junsi-106b-XT60-modification
 This repository contains all necessary 3D models as well as a short build log explaining how to convert a Junsi iCharger 106b+ to XT60 as input and output connectors. All 3D are available at my thingiverse account, too: https://www.thingiverse.com/thing:3005801
-Please wait for revision two of the files (will come tomorrow), the current version has a minor design flaw. The hole spacing is not correct, so that the charger will not be entirely closed.
 
 ![finished chargers](https://raw.githubusercontent.com/ebastler/Junsi-106b-XT60-modification/master/Documentation/junsi_finished.jpg)
 
